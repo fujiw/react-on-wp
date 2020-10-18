@@ -1,0 +1,3 @@
+[submodule "gowp/src/gowp"]
+	path = gowp/src/gowp
+	url = git@github.com:fujiw/gowp.git
